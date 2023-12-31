@@ -1,3 +1,7 @@
+**INSTRUCTION TO VIEW PROJECT**
+CLICK THE dl.pbix file 
+then like view raw and download the file
+**PROJECT DISCRIPION**
 this power bi project is a sales insight dashboard which has following data visualization
 year to year revenue
 revenue
